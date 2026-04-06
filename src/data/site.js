@@ -11,7 +11,7 @@ export const hero = {
   title: 'Full Stack Developer',
   tagline:
     'I build scalable MERN & Next.js products—SaaS, marketplaces, and dashboards—with clean architecture, secure auth, and integrations that ship.',
-  introVideo: 'https://youtu.be/PVn5kmxCfdE',
+  introVideo: 'https://youtu.be/OvfgZVJTgp0',
 }
 
 export const about = {
