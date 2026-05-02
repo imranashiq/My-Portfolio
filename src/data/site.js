@@ -75,7 +75,7 @@ export const portfolio = [
     category: 'Marketing site',
     desc: 'Dark, high-impact landing for a tech agency—clear CTAs, service grid, and polished UI aligned with the live NextEra build.',
     tags: ['React', 'Performance', 'Responsive'],
-    href: 'https://nextera-dev-sigma.vercel.app/',
+    href: 'https://www.nexteradev.tech/',
     image: '/portfolio-nextera-landing.png',
   },
   {
